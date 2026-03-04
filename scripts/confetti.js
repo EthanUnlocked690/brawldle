@@ -6,7 +6,7 @@ export function triggerConfetti() {
     decay: 0.94,
     startVelocity: 30,
     shapes: ["star"],
-    colors: ["FFE400", "FFBD00", "E89400", "FFCA6C", "FDFFB8"],
+    colors: ["FF0000", "008000", "0000FF", "FFCA6C", "FDFFB8"],
   };
 
   function shoot() {
