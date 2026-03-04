@@ -501,7 +501,7 @@ export const data = {
     movement: "Normal",
     range: "Long",
     reload: "Fast",
-    released: "2023",
+    released: "2022",
   },
   mandy: {
     rarity: "Epic",
@@ -766,6 +766,38 @@ export const data = {
     range: "Long",
     reload: "Normal",
     released: "2025",
+  },
+  gigi: {
+    rarity: "Mythic",
+    class: "Assassin",
+    movement: "Very Fast",
+    range: "Short",
+    reload: "Very Fast",
+    released: "2025",
+  },
+  sirius: {
+    rarity: "Ultra Legendary",
+    class: "Controller",
+    movement: "Fast",
+    range: "Long",
+    reload: "Normal",
+    released: "2026",
+  },
+  glowy: {
+    rarity: "Mythic",
+    class: "Support",
+    movement: "Fast",
+    range: "Long",
+    reload: "Normal",
+    released: "2025",
+  },
+  najia: {
+    rarity: "Mythic",
+    class: "Damage Dealer",
+    movement: "Fast",
+    range: "Normal",
+    reload: "Very Fast",
+    released: "2026",
   },
 };
 
