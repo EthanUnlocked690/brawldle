@@ -799,6 +799,30 @@ export const data = {
     reload: "Very Fast",
     released: "2026",
   },
+    starr_nova: {
+    rarity: "Mythic",
+    class: "Assassin",
+    movement: "Fast",
+    range: "Normal",
+    reload: "Very Fast",
+    released: "2026",
+  },
+    damian: {
+    rarity: "Mythic",
+    class: "Tank",
+    movement: "NA",
+    range: "Normal",
+    reload: "Normal",
+    released: "2026",
+  },
+   bolt: {
+    rarity: "Epic",
+    class: "Tank",
+    movement: "Fast",
+    range: "NA",
+    reload: "Fast",
+    released: "2026",
+  },
 };
 
 export const brawlers = Object.keys(data);
