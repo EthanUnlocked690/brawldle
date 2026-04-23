@@ -799,7 +799,7 @@ export const data = {
     reload: "Very Fast",
     released: "2026",
   },
-    starr_nova: {
+    "starr nova": {
     rarity: "Mythic",
     class: "Assassin",
     movement: "Fast",
