@@ -810,9 +810,9 @@ export const data = {
     damian: {
     rarity: "Mythic",
     class: "Tank",
-    movement: "NA",
-    range: "Normal",
-    reload: "Normal",
+    movement: "Fast",
+    range: "Short",
+    reload: "Fast",
     released: "2026",
   },
    bolt: {
